@@ -9,6 +9,7 @@
 
 ## Links
 - [Syllabus](files/MICA-19FA-GD413-Syllabus.pdf)
+- Resources
 - Submit assignments [here](https://drive.google.com/drive/folders/1CFT46LI2kIB753bhOX1uEURrB8-R0n1S?usp=sharing). You need to sign in with MICA email account to access the folder.
 
 ## Course description
@@ -24,3 +25,5 @@ This course provides experienced web designers with an opportunity to further th
 ## Weekly schedule
 
 ### Week 1
+- [Survey](https://forms.gle/hXdTcZTGHy6Cp2w88)
+- ...
