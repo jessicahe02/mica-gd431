@@ -26,6 +26,10 @@ This course provides experienced web designers with an opportunity to further th
 
 ### Week 1
 - [Survey](https://forms.gle/hXdTcZTGHy6Cp2w88)
+- Set up
+  - Install Chrome web browser
+  - Install [Visual Studio code editor](https://code.visualstudio.com)
+  - Sign up on Github and Watch the course repo.
 - [How the Internet works](lectures/w1-how-the-internet-works.md)
 - Front-end? Back-end?
   - https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html
