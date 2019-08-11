@@ -36,5 +36,5 @@ This course provides experienced web designers with an opportunity to further th
   - https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html
 - Command Line
   - If you use Mac, simply open Terminal app.
-  - If you use PC, here is [the list of commands](https://www.lemoda.net/windows/windows2unix/windows2unix.html).
+  - If you use PC, here is [the list of commands](https://www.lemoda.net/windows/windows2unix/windows2unix.html), or you can install [Cygwin](https://www.cygwin.com) to use the same commands as Mac/Linux.
 
