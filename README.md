@@ -26,4 +26,4 @@ This course provides experienced web designers with an opportunity to further th
 
 ### Week 1
 - [Survey](https://forms.gle/hXdTcZTGHy6Cp2w88)
-- ...
+- [How the Internet works](lectures/w1-how-the-internet-works.md)
