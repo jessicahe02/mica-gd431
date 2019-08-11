@@ -33,3 +33,6 @@ This course provides experienced web designers with an opportunity to further th
 - [How the Internet works](lectures/w1-how-the-internet-works.md)
 - Front-end? Back-end?
   - https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html
+- Command Line
+  - If you use Mac, simply open Terminal app.
+  - If you use PC, 
