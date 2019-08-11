@@ -35,5 +35,5 @@ This course provides experienced web designers with an opportunity to further th
   - https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html
 - Command Line
   - If you use Mac, simply open Terminal app.
-  - If you use PC (Windows 10), follow [this guide](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10) 
+  - If you use PC, here is [the list of commands](https://www.lemoda.net/windows/windows2unix/windows2unix.html).
 
