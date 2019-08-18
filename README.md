@@ -37,10 +37,7 @@ This course provides experienced web designers with an opportunity to further th
 - Command Line
   - If you use Mac, simply open Terminal app. Here is [the list of commands for Mac](https://ss64.com/bash/).
   - If you use PC, here is [the list of commands for PC](https://www.lemoda.net/windows/windows2unix/windows2unix.html), or you can install [Cygwin](https://www.cygwin.com) to use the same commands as Mac/Linux.
-- Exercise: Resume design
-  1. Review your current resume and talk about how you might improve it, and how you might translate it into HTML codes. Discuss as small groups and share feedbacks.
-  1. Recreate your resume in HTML file with proper HTML structure.
-  1. Text only, no images. Icons are ok.
+- Exercise: [Resume design](lectures/w1-resume-design.md)
 - Assignments
 
 
