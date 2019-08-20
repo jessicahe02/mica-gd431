@@ -8,7 +8,7 @@
 - Office hours: email for an appointment (Tuesday, Wednesday and Thursdays)
 
 ## Links
-- [Syllabus](files/MICA-19FA-GD413-Syllabus.pdf)
+- [Syllabus](files/MICA-19FA-GD431-Syllabus-v2.pdf)
 - Resources
 - Submit assignments [here](https://drive.google.com/drive/folders/1CFT46LI2kIB753bhOX1uEURrB8-R0n1S?usp=sharing). You need to sign in with MICA email account to access the folder.
 
