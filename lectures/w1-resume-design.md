@@ -11,3 +11,5 @@
 
 1. Once you have a good HTML structure, apply CSS to the document.
 1. Pay attention to visual hierarchy and legibility.
+1. Your code should be clean and organized well.
+1. Use this exercise as a chance to review HTML/CSS fundamentals. Watch youtube tutorials, read blog postings, search on Google/Duckduckgo to learn and review materials as necessary.
