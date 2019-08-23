@@ -29,5 +29,6 @@
   - If you use PC, here is [the list of commands for PC](https://www.lemoda.net/windows/windows2unix/windows2unix.html), or you can install [Cygwin](https://www.cygwin.com) to use the same commands as Mac/Linux.
 - Exercise: [Resume design](lectures/w1-resume-design.md)
 - Assignments
+  - Finish the resume exercise (HTML and CSS) - we will continue to develop it next week.
 
 
