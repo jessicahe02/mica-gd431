@@ -10,7 +10,7 @@
 ## Part 2: Styling
 
 1. Once you have a good HTML structure, apply CSS to the document.
-1. **Create 2 different design. First, one that you feel comfortable with, the other that you have not tried before.**
+1. **Create 2 different visual design for the resume. One that you feel comfortable with, the other that you have not tried before.**
 1. Pay attention to visual hierarchy and legibility.
 1. Your code should be clean and organized well.
 1. Use this exercise as a chance to review HTML/CSS fundamentals. Watch youtube tutorials, read blog postings, search on Google/Duckduckgo to learn and review materials as necessary.
