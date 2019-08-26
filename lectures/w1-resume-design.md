@@ -13,6 +13,6 @@
 1. Create 2 different visual design concepts for the resume. They should be different from each other.
 1. Pay attention to visual hierarchy and legibility.
 1. Your code should be clean and organized well.
-1. Use this exercise as a chance to review HTML/CSS fundamentals. Watch youtube tutorials, read blog postings, search on Google/Duckduckgo to learn and review materials as necessary.
+1. Use this exercise as a chance to review HTML/CSS fundamentals. Watch youtube tutorials, Lynda.com videos, read blog postings, search on Google/Duckduckgo to learn and review materials as necessary.
   - https://learn.shayhowe.com/html-css/
 
