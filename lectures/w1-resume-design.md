@@ -15,4 +15,6 @@
 1. Your code should be clean and organized well.
 1. Use this exercise as a chance to review HTML/CSS fundamentals. Watch youtube tutorials, Lynda.com videos, read blog postings, search on Google/Duckduckgo to learn and review materials as necessary.
   - https://learn.shayhowe.com/html-css/
+  - http://learnlayout.com
+  - https://developer.mozilla.org/en-US/docs/Learn
 
