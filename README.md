@@ -2,7 +2,7 @@
 
 - GD431
 - Fall 2019
-- Instructor: Dae In Chung
+- Instructor: Dae In Chung (he/him)
 - email: [dchung01@mica.edu](mailto:dchung01@mica.edu)
 - Office: BR303
 - Office hours: email for an appointment (Tuesday, Wednesday and Thursdays)
