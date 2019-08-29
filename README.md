@@ -26,7 +26,7 @@
   - https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html
 - Command Line
   - If you use Mac, simply open Terminal app. Here is [the list of commands for Mac](https://ss64.com/bash/).
-  - If you use PC, here is [the list of commands for PC](https://www.lemoda.net/windows/windows2unix/windows2unix.html), or you can install [Cygwin](https://www.cygwin.com) to use the same commands as Mac/Linux. Here is another resource to use [Lunux Bash Shell](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) for Windows 10.
+  - If you use PC, here is [the list of commands for PC](https://www.lemoda.net/windows/windows2unix/windows2unix.html), or you can install [Cygwin](https://www.cygwin.com) to use the same commands as Mac/Linux. Here is another resource on how to use [Lunux Bash Shell](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) for Windows 10.
 - Exercise: [Resume design](lectures/w1-resume-design.md)
 - Assignments
   - Upload your headshot to Google Drive.
