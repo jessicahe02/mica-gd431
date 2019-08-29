@@ -30,6 +30,6 @@
 - Exercise: [Resume design](lectures/w1-resume-design.md)
 - Assignments
   - Upload your headshot to Google Drive.
-  - Finish the resume exercise (HTML and CSS) - we will continue to develop it next week.
+  - Finish the resume exercise (HTML and CSS) - we will continue next week.
 
 
